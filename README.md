@@ -14,3 +14,6 @@ and add:
 https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/models.json
 
 If that doesn't work download the files by hand and import them
+
+## Info
+I based it on marco-trovato's instructions [found here](https://github.com/XapaJIaMnu/translateLocally/issues/162#issuecomment-2436192852)
