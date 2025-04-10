@@ -10,3 +10,5 @@ Open the program, in the main menu click on “Edit” > “Translator Settings�
 Then go to the “Repositories” section
 
 and add: 
+
+https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/models.json
