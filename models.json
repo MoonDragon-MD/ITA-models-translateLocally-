@@ -1,0 +1,37 @@
+{
+    "models": [
+        {
+            "modelName": "Italian-English tiny",
+            "shortName": "it-en-tiny",
+            "type":      "tiny",
+            "src":       "Italian",
+            "trg":       "English",
+            "srcTags":   {"it": "Italian"},
+            "trgTag":    "en",
+            "repository": "MoonDragon-MD",
+            "version":   2,
+            "API":       1,
+            "checksum": "cac56e9ad45f673b3026a46a5acefb973f9ec3452e14badab3ab486cc56d76a9",
+            "url": "https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/it-en-tiny.tar.gz",
+            "name": "Italian-English tiny",
+            "code": "it-en-tiny"
+          },
+          {
+            "modelName": "English-Italian tiny",
+            "shortName": "en-it-tiny",
+            "type":      "tiny",
+            "src":       "English",
+            "trg":       "Italian",
+            "srcTags":   {"en": "English"},
+            "trgTag":    "it",
+            "repository": "MoonDragon-MD",
+            "version":   2,
+            "API":       1,
+            "checksum": "bef4973dccfcb1df8b316b68f11d3fd2a3c1b811ffb4fca7bcac4c392f4fd2d4",
+            "url": "https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/en-it-tiny.tar.gz",
+            "name": "English-Italian tiny",
+            "code": "en-it-tiny"
+          }          
+    ]
+}
+
