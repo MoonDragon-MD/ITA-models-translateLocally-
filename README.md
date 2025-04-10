@@ -11,4 +11,4 @@ Then go to the “Repositories” section
 
 and add: 
 
-https://github.com/MoonDragon-MD/ITA-models-translateLocally-/blob/main/models.json
+https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/models.json
