@@ -11,7 +11,7 @@ Then go to the “Repositories” section
 
 and add: 
 
-https://github.com/MoonDragon-MD/ITA-models-translateLocally-/raw/refs/heads/main/models.json
+https://raw.githubusercontent.com/MoonDragon-MD/ITA-models-translateLocally-/main/models.json
 
 If that doesn't work download the files by hand and import them
 
