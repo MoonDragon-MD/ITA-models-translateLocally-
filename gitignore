@@ -1,0 +1,14 @@
+# Model
+*.npz
+
+# Output / Logging
+*.log
+*.out
+
+# Data
+.sample.*
+*.gz
+*.zip
+*.txt
+*.tsv
+
